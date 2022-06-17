@@ -1,0 +1,18 @@
+.button{
+
+    text-align: center;
+    padding: 25px;
+    background-color: rgb(63, 114, 180);
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50px;
+    font-size: 1.5rem;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.data{
+    display: flex;
+    justify-content: space-around;
+}
